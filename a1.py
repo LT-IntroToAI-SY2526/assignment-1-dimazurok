@@ -1,5 +1,5 @@
 # Assignment 1: AI-Generated Python Problems
-# Name: [Your Name Here]
+# Name: [Daniel Mazurok]
 
 """
 AI-Generated Problem Set
@@ -20,10 +20,15 @@ Remember: The goal is to LEARN, not just get working code!
 
 """
 MY ORIGINAL AI PROMPT:
-[Paste the prompt you used to generate your problem set here]
+I'm learning Python basics in a high school programming class. I have some experience with Java and Java script. 
+Can you create 5 practice problems that cover: 
+- Variables and basic data types 
+- Conditionals (if/elif/else) 
+- For loops and while loops 
+- Functions 
+- Basic list operations 
+Make them progressively more challenging. Make sure each problem has clear instructions and example inputs/outputs.
 
-Example: "I'm learning Python basics in a high school programming class. 
-I have some experience with Java. Can you create 5-7 practice problems that cover..."
 """
 
 # =============================================================================
@@ -31,16 +36,70 @@ I have some experience with Java. Can you create 5-7 practice problems that cove
 # =============================================================================
 
 """
-PROBLEM 1: [Problem Title/Description]
-[Copy the complete problem description from your AI assistant]
+PROBLEM 1: [Simple Calculator (Variables & Data Types)]
+Write a program that asks the user to enter two numbers and then prints the result of adding,
+subtracting, multiplying, and dividing them.
 
-Example:
-Problem: Write a function called 'is_even' that takes an integer and returns 
-True if the number is even, False if it's odd.
+Enter first number: 10
+Enter second number: 5
+Should return:
+Addition: 15.0
+Subtraction: 5.0
+Multiplication: 50.0
+Division: 2.0
 
-Example inputs/outputs:
-- is_even(4) should return True
-- is_even(7) should return False
+PROBLEM 2: [Grade Checker (Conditonals)]
+Write a program that asks the user to enter a test score (0–100) 
+and prints the letter grade based on the following:
+
+Enter your score: 85
+Should return:
+You got a B!
+
+PROBLEM 3: [Multiples of a number (Loops)]
+Write a program that asks the user for a number and prints all 
+the multiples of that number from 1 to 100.
+
+Enter a number: 25
+Should return:
+25
+50
+75
+100
+
+PROBLEM 4: [Password Validator (Functions + Loops + Conditionals)]
+Write a function is_valid_password(password) that checks if a password 
+is valid. A valid password:
+
+Is at least 8 characters long
+
+Contains at least one number
+
+Contains at least one uppercase letter
+
+Then, use a loop to keep asking the user to enter a password until 
+they enter a valid one.
+
+Enter a password: hello
+Invalid password. Try again.
+Enter a password: Hello123
+Password accepted!
+
+PROBLEM 5: [List Statistics (Lists + FWrite a program that asks the 
+user to enter a series of numbers (separated by spaces), and then:
+
+Converts them into a list of integers
+
+Defines a function to compute the average, maximum, and minimum
+
+Prints the resultsunctions + Loops)]
+
+Enter numbers separated by spaces: 5 10 15 20
+Should return:
+Average: 12.5
+Maximum: 20
+Minimum: 5
+
 """
 
 
