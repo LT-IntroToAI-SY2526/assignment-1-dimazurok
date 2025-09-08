@@ -35,7 +35,7 @@ Make them progressively more challenging. Make sure each problem has clear instr
 # PART 2: AI-GENERATED PROBLEMS & SOLUTIONS
 # =============================================================================
 
-"""
+"""]
 PROBLEM 1: [Simple Calculator (Variables & Data Types)]
 Write a program that asks the user to enter two numbers and then prints the result of adding,
 subtracting, multiplying, and dividing them.
