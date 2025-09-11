@@ -295,5 +295,12 @@ print("\nTesting Problem 4:")
 
 print("\nTesting Problem 5:")
 # Add your tests here
+# Enter numbers separated by spaces: 1 2 5 9
+Average: 4.25
+Maximum: 9
+Minimum: 1
 
-
+# Enter numbers separated by spaces: 5 12 59 61
+Average: 34.25
+Maximum: 61
+Minimum: 5
